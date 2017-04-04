@@ -1,0 +1,27 @@
+{
+  "name": "hjedit",
+  "version": "0.0.1",
+  "description": "a rich text editor in HJproject",
+  "main": "HJedit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwyj123/HJedit.git"
+  },
+  "keywords": [
+    "Rich",
+    "text"
+  ],
+  "author": "lwyj123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwyj123/HJedit/issues"
+  },
+  "homepage": "https://github.com/lwyj123/HJedit#readme",
+  "dependencies": {
+    "eventemitter3": "^2.0.3",
+    "parchment": "^1.0.8"
+  }
+}
