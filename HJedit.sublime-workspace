@@ -1,0 +1,823 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"right",
+				"rightAnswerBefore"
+			],
+			[
+				"tab",
+				"tabHighlight"
+			],
+			[
+				"text",
+				"textareaDom"
+			],
+			[
+				"stra",
+				"strategy"
+			],
+			[
+				"phone",
+				"phonenumber"
+			],
+			[
+				"new",
+				"newpwd2"
+			],
+			[
+				"newp",
+				"newpwd2"
+			],
+			[
+				"pwdsafe",
+				"pwdsafeForm"
+			],
+			[
+				"pwd",
+				"pwdsafe-form"
+			],
+			[
+				"target",
+				"targetOBJ"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"gameOver",
+				"gameOverFlag"
+			],
+			[
+				"gameStart",
+				"gameStartFlag"
+			],
+			[
+				"main",
+				"mainTimeLineInterval"
+			],
+			[
+				"bir",
+				"birdFall"
+			],
+			[
+				"best",
+				"best"
+			],
+			[
+				"max",
+				"maxScore"
+			],
+			[
+				"merge",
+				"merge_down"
+			],
+			[
+				"empty",
+				"emptyWeight"
+			],
+			[
+				"smooth",
+				"smoothWeight"
+			],
+			[
+				"emp",
+				"EmptyCounter"
+			],
+			[
+				"curren",
+				"current"
+			],
+			[
+				"hig",
+				"highestCell"
+			],
+			[
+				"h",
+				"highestCell"
+			],
+			[
+				"start",
+				"start_mon"
+			],
+			[
+				"get",
+				"get_food_value"
+			],
+			[
+				"super",
+				"superBestFriend"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"cac",
+				"calculateThingThreat"
+			],
+			[
+				"min",
+				"min_damage"
+			],
+			[
+				"reduce",
+				"reduce_health"
+			],
+			[
+				"get_med",
+				"get_medicine_value"
+			],
+			[
+				"get_food",
+				"get_food_value"
+			],
+			[
+				"food",
+				"food_value"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"fill",
+				"fill_row"
+			],
+			[
+				"print",
+				"printPaths"
+			],
+			[
+				"all",
+				"allc"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"last",
+				"lastitem"
+			],
+			[
+				"has",
+				"hasUpper"
+			],
+			[
+				"str",
+				"str_num"
+			],
+			[
+				"list",
+				"listnum"
+			],
+			[
+				"step",
+				"step4"
+			],
+			[
+				"pop",
+				"pop_stack"
+			],
+			[
+				"make",
+				"make_empty_stack"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"tuple",
+				"tuple_a"
+			],
+			[
+				"score",
+				"score_increment"
+			],
+			[
+				"get_re",
+				"get_record_increment"
+			],
+			[
+				"sc",
+				"score_increment"
+			],
+			[
+				"merg",
+				"merge_left"
+			],
+			[
+				"temp",
+				"tempans"
+			],
+			[
+				"Max",
+				"maxX"
+			],
+			[
+				"game",
+				"game_map"
+			],
+			[
+				"F",
+				"F"
+			],
+			[
+				"s",
+				"stime2"
+			],
+			[
+				"time",
+				"time1"
+			],
+			[
+				"customer",
+				"customer_name"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"word",
+				"word-break"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "modules/toolbar.js",
+			"settings":
+			{
+				"buffer_size": 10088,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 24,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pkin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/HJedit/",
+		"/E/HJedit//modules"
+	],
+	"file_history":
+	[
+		"/E/HJedit/core.js",
+		"/E/HJedit/test/unit.js",
+		"/E/HJedit/core/quill.js",
+		"/E/HJedit/core/emitter.js",
+		"/E/HJedit/core/selection.js",
+		"/E/HJedit/quill-develop/core/logger.js",
+		"/E/HJedit/quill-develop/quill.js",
+		"/E/HJedit/quill-develop/test/unit/modules/clipboard.js",
+		"/E/HJedit/quill-develop/modules/clipboard.js",
+		"/E/HJedit/quill-develop/core/quill.js",
+		"/E/HJedit/quill-develop/test/unit.js",
+		"/E/HJedit/quill-develop/HJedit.sublime-project",
+		"/E/HJedit/quill-develop/test/unit/modules/keyboard.js",
+		"/E/HJedit/quill-develop/test/unit/ui/picker.js",
+		"/E/HJedit/quill-develop/themes/snow.js",
+		"/E/HJedit/quill-develop/assets/snow/toolbar.styl",
+		"/E/HJedit/quill-develop/assets/bubble/toolbar.styl",
+		"/E/HJedit/quill-develop/assets/base.styl",
+		"/E/HJedit/quill-develop/core/editor.js",
+		"/E/HJedit/test.html",
+		"/E/HJedit/quill-develop/ui/color-picker.js",
+		"/E/HJedit/quill-develop/ui/picker.js",
+		"/E/HJedit/quill-develop/themes/bubble.js",
+		"/E/HJedit/quill-develop/formats/image.js",
+		"/E/HJedit/quill-develop/.travis.yml",
+		"/E/HJedit/quill-develop/.gitignore",
+		"/E/HJedit/quill-develop/core.js",
+		"/E/HJedit/src/core/HJedit.js",
+		"/E/HJedit/src/core/polyfill.js",
+		"/E/HJedit/quill-develop/core/polyfill.js",
+		"/E/HJedit/.gitignore",
+		"/E/wuanlife-project/wuanlife/views/indexMobile.ejs",
+		"/E/wuanlife-project/wuanlife/routes/index.js",
+		"/E/HJedit/usage-goal.md",
+		"/E/HJedit/quill-develop/_develop/webpack.config.js",
+		"/E/HJedit/quill-develop/README.md",
+		"/E/HJedit/quill-develop/CODE_OF_CONDUCT.md",
+		"/E/HJedit/src/lib/extend.js",
+		"/E/HJedit/quill-develop/package.json",
+		"/E/HJedit/package.json",
+		"/E/HJedit/src/core/emitter.js",
+		"/E/HJedit/quill-develop/core/emitter.js",
+		"/E/HJedit/src/core/core.js",
+		"/E/HJedit/artEditor-master/example/001gettingstart/index.html",
+		"/E/wuanlife-project/wuanlife/views/base/baseJSMobile.ejs",
+		"/E/wuanlife-project/wuanlife/app.js",
+		"/E/wuanlife-project/wuanlife/views/registerMobile.ejs",
+		"/E/wuanlife-project/wuanlife/package.json",
+		"/E/wuanlife-project/wuanlife/views/retrievePwdMobile.ejs",
+		"/E/wuanlife-project/wuanlife/views/loginMobile.ejs",
+		"/E/wuanlife-project/wuanlife/routes/group.js",
+		"/E/wuanlife-project/wuanlife/mongodb.bat",
+		"/E/wuanlife-project/wuanlife/routes/login.js",
+		"/E/wuanlife-project/wuanlife/routes/myMessage.js",
+		"/E/wuanlife-project/wuanlife/routes/myCollections.js",
+		"/E/wuanlife-project/wuanlife/routes/register.js",
+		"/E/wuanlife-project/wuanlife/routes/resetPassword.js",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/retrievePwdMobile.less",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/globalM.css",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/globalM.less",
+		"/E/wuanlife-project/wuanlife/routes/loginNew.js",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/indexMobile.less",
+		"/E/wuanlife-project/wuanlife/README.md",
+		"/E/wuanlife-project/wuanlife/views/base/headerMobile-index.ejs",
+		"/E/wuanlife-project/wuanlife/views/base/baseJSMobile-index.ejs",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/publicM.less",
+		"/E/wuanlife-project/wuanlife/views/mymessageMobile.ejs",
+		"/C/Users/Administrator/Desktop/test2.js",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/global.less",
+		"/C/Users/Administrator/Desktop/xiaochao.html",
+		"/C/Users/Administrator/Desktop/test.html",
+		"/C/Users/Administrator/Desktop/test3 - 副本.js",
+		"/C/Users/Administrator/Desktop/test3.js",
+		"/C/Users/Administrator/Desktop/test2.html",
+		"/E/wuanlife-project/wuanlife/routes/changeProfile.js",
+		"/E/wuanlife-project/wuanlife/views/base/footerMobile.ejs",
+		"/C/Users/Administrator/Desktop/test.css",
+		"/E/HJLoading-master/test/test.html",
+		"/E/HJformcheck/README.md",
+		"/E/wuanlife-project/wuanlife/views/old/messageMobile.ejs",
+		"/E/wuanlife-project/wuanlife/views/mymessageMobile-verify.ejs",
+		"/E/wuanlife-project/wuanlife/views/mymessageMobile-planet.ejs",
+		"/E/wuanlife-project/wuanlife/views/mymessageMobile-post.ejs",
+		"/C/Users/Administrator/Desktop/大三下/temp.js",
+		"/E/HJformcheck/HJformcheck.js",
+		"/E/HJLoading-master/src/js/modules/HJLoading.js",
+		"/F/Warband Classical Collection/Mount&Blade Warband/Modules/Light and Darkness - Specials/module.ini",
+		"/F/Warband Classical Collection/Mount&Blade Warband/Modules/Light and Darkness - Specials/scripts.txt",
+		"/E/wuanlife-project/wuanlife/views/old/base/baseJSMobile.ejs",
+		"/E/HJformcheck/demo.html",
+		"/E/wuanlife-project/wuanlife/.gitignore",
+		"/E/HJproject/src/js/modules/HJtemplate.js",
+		"/E/wuanlife-project/wuanlife/views/base/headerMobile.ejs",
+		"/E/wuanlife-project/wuanlife/views/old/base/headerMobile.ejs",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/mymessageMobile.less",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/src/less/messageMobile.less",
+		"/E/wuanlife-project/wuanlife/views/base/headerMobile-old.ejs",
+		"/E/HJproject/test/HJtemplate.html",
+		"/E/wuanlife-project/wuanlife/public/javascripts/sweetAlert.js",
+		"/E/wuanlife-project/wuanlife/views/base/baseJSMobile-old.ejs",
+		"/E/wuanlife-project/wuanlife/staticTest/hometest.html",
+		"/E/HJproject/src/js/modules/HJalert.js",
+		"/E/resume/print.html",
+		"/E/wuanlife-project/wuanlife/public/stylesheets/global.css",
+		"/E/wuanlife-project/wuanlife/routes/createGroup.js",
+		"/E/wuanlife-project/wuanlife/config/config.js",
+		"/C/Users/Administrator/Desktop/mongodb.bat",
+		"/E/resume/README.md",
+		"/E/jianguoyun/响应式源码/Dale/videos/RecordPlayer/RecordPlayer.ogv",
+		"/E/lwinfo/include/addInfo.php",
+		"/E/lwinfo/include/getFirstInfo.php",
+		"/E/lwinfo/config/db_config.php",
+		"/E/lwinfo/include/medoo.php",
+		"/E/lwinfo/create.sql",
+		"/E/resume/index.html",
+		"/E/lffOJ/server/component/submit.php",
+		"/E/lffOJ/server/db_connect.php",
+		"/E/lffOJ/server/db_config.php",
+		"/F/Program Files (x86)/Steam/steamapps/common/Sid Meier's Civilization VI/Base/Assets/Gameplay/Data/Improvements.xml",
+		"/E/jianguoyun/Writing/大英周记/week10-17.txt",
+		"/C/Users/Administrator/Desktop/大三上/软件工程社会与职业问题.txt",
+		"/E/托福核心/独立写作练习.txt",
+		"/E/lffOJ/client/training/js/main.js",
+		"/E/lffOJ/client/training/index.html",
+		"/E/jianguoyun/lwChart-zoompan/src/chart.zoom.js",
+		"/E/lffOJ/client/training/js/index.js",
+		"/D/xampp/apache/logs/error.log",
+		"/E/resume/dist/css/fontello.min.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\HJedit\\quill-develop\\\\modules",
+			"E:\\HJedit\\quill-develop\\\\formats",
+			"E:\\HJedit\\quill-develop\\\\dist",
+			"E:\\HJedit\\quill-develop\\\\core",
+			"E:\\HJedit\\quill-develop\\\\blots",
+			"E:\\HJedit\\quill-develop\\\\assets",
+			"E:\\HJedit\\quill-develop\\\\modules",
+			"E:\\HJedit\\quill-develop\\,-/*node_modules/* ",
+			"E:\\HJedit\\quill-develop\\\\assets",
+			"E:\\HJedit\\quill-develop\\,-/node_modules/*.*",
+			"E:\\HJedit\\quill-develop\\\\test",
+			"E:\\HJedit\\quill-develop\\\\modules",
+			"E:\\HJedit\\quill-develop\\\\formats",
+			"E:\\HJedit\\quill-develop\\\\docs",
+			"E:\\HJedit\\quill-develop\\\\core",
+			"E:\\HJedit\\quill-develop\\\\blots",
+			"E:\\HJedit\\quill-develop\\\\assets",
+			"E:\\HJedit\\quill-develop\\\\blots",
+			"E:\\HJedit\\quill-develop\\\\core",
+			"E:\\HJedit\\quill-develop\\\\themes",
+			"E:\\HJedit\\quill-develop\\\\ui",
+			"E:\\HJedit\\quill-develop\\",
+			"E:\\HJedit\\quill-develop",
+			"C:\\Users\\Administrator\\Desktop\\大三上\\system-level programming\\slp14\\WRK-v1.2",
+			"C:\\Users\\Administrator\\Desktop\\大三上\\computer network\\期末PPT\\Saltyguy",
+			"C:\\Users\\Administrator\\Desktop\\大三上\\computer network\\期末PPT\\Saltyguy\\Saltyguy",
+			"E:\\jianguoyun\\lwChart\\Chart.js-2.4.0\\src",
+			"E:\\jianguoyun\\lwChart\\Chart.js-2.4.0",
+			"E:\\jianguoyun\\lwChart\\chartjs-plugin-zoom-0.4.3\\src",
+			"E:\\jianguoyun\\lwChart\\Chart.js-2.4.0\\src",
+			"E:\\jianguoyun\\lwChart",
+			"E:\\Saltyguy\\Workerman"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getRangeAt",
+			"//",
+			"debug",
+			"clipboard",
+			"pasteHTML",
+			"traverse",
+			"Clipboard",
+			"extend",
+			"clipboard",
+			"Picker",
+			"lineLength",
+			"Picker",
+			"AlignStyle",
+			"AlignAttribute",
+			"clipboard",
+			"STYLE_ATTRIBUTORS",
+			"lengthRemaining",
+			"CodeBlock",
+			"ql-code-block",
+			"code",
+			"imports",
+			"import",
+			"find",
+			"extend",
+			"modules",
+			"QUILL_VERSION",
+			"disable",
+			"setContents",
+			"eventemitter3",
+			"addContainer",
+			"expandConfig",
+			"modules",
+			"user",
+			"HJloading",
+			"sweetAlert",
+			"message-privateGroupApply",
+			"head",
+			"Great",
+			"GreatWall_Gold",
+			"Great",
+			"GreatWall_Gold",
+			"GreatWall_FAITH",
+			"FAITH",
+			"GreatWall_Gold",
+			"IMPROVEMENT_GREAT_WALL",
+			"GreatWall_Culture",
+			"IMPROVEMENT_GREAT_WALL",
+			"Default",
+			"trp_se_skirmisher",
+			"trp_se_tribesman",
+			"navigator",
+			"size",
+			"12",
+			"1224979098644774917 13",
+			"13",
+			"1224979098644774917 13",
+			"1224979098644774917 15",
+			"1224979098644774917 ",
+			"GreatWall_Gold",
+			"IMPROVEMENT_GREAT_WAL",
+			"Wall",
+			"Great",
+			"TRAIT_CIVIC_BOOST",
+			"TRAIT_CIVILIZATION_DYNASTIC_CYCLE",
+			"unmarked",
+			"NtTerminateProcess",
+			"1200",
+			"2016",
+			"api",
+			"login-group",
+			"normal",
+			"pwd",
+			"tab-head",
+			"login-group",
+			"login-form",
+			"click",
+			"onclick",
+			"SELECT_MASTER",
+			"globalEvent",
+			"baseWrite",
+			"baseRead",
+			"baseWrite",
+			"remote_address",
+			"acceptConnection",
+			"globalEvent",
+			"parseUploadFiles",
+			"parseUploadFiles‘",
+			"POST",
+			"close",
+			"send",
+			"sendFile",
+			"SendFile",
+			"Send",
+			"positionInChartArea",
+			"option",
+			"panScale",
+			"zoomNS",
+			"getYAxis",
+			"_mc",
+			"wheel",
+			"mousedown",
+			"_mouseDownHandler",
+			"getYAxis",
+			"mode",
+			"threshold",
+			"speed",
+			"panMode",
+			"mode",
+			"directionEnabled",
+			"mode",
+			"directionEnabled",
+			"panScale",
+			"panNumericalScale",
+			"panFunctions",
+			"zoomNumericalScale",
+			"zoomOptions",
+			"zoomFunctions",
+			"scales",
+			"Pinch",
+			"positionInChartArea",
+			"getYAxis",
+			"positionInChartArea",
+			"getValue",
+			"defaultOptions",
+			"zoomPlugin",
+			"lwPlugin",
+			"zoomPlugin",
+			"zoomCumulativeDelta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "modules/toolbar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10088,
+								10088
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "HJedit.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,146 @@
+// Styles shared between snow and bubble
+
+controlHeight = 24px
+inputPaddingWidth = 5px
+inputPaddingHeight = 3px
+
+colorItemMargin = 2px
+colorItemSize = 16px
+colorItemsPerRow = 7
+
+
+.ql-{themeName}.ql-toolbar, .ql-{themeName} .ql-toolbar
+  &:after
+    clear: both
+    content: ''
+    display: table
+
+  button
+    background: none
+    border: none
+    cursor: pointer
+    display: inline-block
+    float: left
+    height: controlHeight
+    padding: inputPaddingHeight inputPaddingWidth
+    width: controlHeight + (inputPaddingWidth - inputPaddingHeight)*2
+
+    svg
+      float: left
+      height: 100%
+
+    &:active:hover
+      outline: none
+
+  input.ql-image[type=file]
+    display: none
+
+  button:hover, button.ql-active
+    color: activeColor
+    .ql-fill, .ql-stroke.ql-fill
+      fill: activeColor
+    .ql-stroke, .ql-stroke-miter
+      stroke: activeColor
+
+
+.ql-{themeName}
+  box-sizing: border-box
+  *
+    box-sizing: border-box
+
+  .ql-hidden
+    display: none
+  .ql-out-bottom, .ql-out-top
+    visibility: hidden
+
+  .ql-tooltip
+    position: absolute
+    transform: translateY(10px)
+    a
+      cursor: pointer
+      text-decoration: none
+  .ql-tooltip.ql-flip
+    transform: translateY(-10px)
+
+  .ql-formats
+    &:after
+      clear: both
+      content: ''
+      display: table
+    display: inline-block
+    vertical-align: middle
+
+  .ql-stroke
+    fill: none
+    stroke: inactiveColor
+    stroke-linecap: round
+    stroke-linejoin: round
+    stroke-width: 2
+  .ql-stroke-miter
+    fill: none
+    stroke: inactiveColor
+    stroke-miterlimit: 10
+    stroke-width: 2
+
+  .ql-fill, .ql-stroke.ql-fill
+    fill: inactiveColor
+
+  .ql-empty
+    fill: none
+  .ql-even
+    fill-rule: evenodd
+  .ql-thin, .ql-stroke.ql-thin
+    stroke-width: 1
+  .ql-transparent
+    opacity: 0.4
+
+  .ql-direction
+    svg:last-child
+      display: none
+  .ql-direction.ql-active
+    svg:last-child
+      display: inline
+    svg:first-child
+      display: none
+
+  .ql-editor
+    h1
+      font-size: 2em
+    h2
+      font-size: 1.5em
+    h3
+      font-size: 1.17em
+    h4
+      font-size: 1em
+    h5
+      font-size: 0.83em
+    h6
+      font-size: 0.67em
+    a
+      text-decoration: underline
+    blockquote
+      border-left: 4px solid #ccc
+      margin-bottom: 5px
+      margin-top: 5px
+      padding-left: 16px
+    code, pre
+      background-color: #f0f0f0
+      border-radius: 3px
+    pre
+      white-space: pre-wrap
+      margin-bottom: 5px
+      margin-top: 5px
+      padding: 5px 10px
+    code
+      font-size: 85%
+      padding-bottom: 2px
+      padding-top: 2px
+      &:before, &:after
+        content: "\00a0"
+        letter-spacing: -2px
+    pre.ql-syntax
+      background-color: #23241f
+      color: #f8f8f2;
+      overflow: visible
+    img
+      max-width: 100%
